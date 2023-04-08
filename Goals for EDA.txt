@@ -1,0 +1,11 @@
+Goals 
+
+1) sales for each depratment over time
+
+2) Check for Seasonality
+
+3) check outliers
+
+4) autocorreltion and pratialautocorreltion
+
+5) lag plots
