@@ -5,3 +5,5 @@ seaborn
 statsmodels
 tensorflow
 xgboost
+fastparquet
+dask
